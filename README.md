@@ -1,2 +1,2 @@
 # Node application.
-Look at the Dockerfile for the instructions
+go to the docker file and make the changes
